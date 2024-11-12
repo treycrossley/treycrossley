@@ -5,12 +5,12 @@ Welcome to my GitHub profile! I’m a **Full-Stack Developer** passionate about 
 ## 👨‍💻 Tools I've worked with
 
 - **Frontend**: React, Redux, Next.js, Angular 2+, TypeScript, JavaScript (ES5/ES6), HTML5, CSS3, Babel, Webpack
-- **Backend**: Node.js, Express, GraphQL, SQL, NoSQL, Spring Boot
-- **Database**: SQL, PostgresQL, NoSQL, MongoDB
+- **Backend**: Node.js, Express, Spring Boot, GraphQL, REST APIs
+- **Database**: SQL, PostgreSQL, NoSQL, MongoDB
 - **DevOps**: Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions, SonarQube
 - **Cloud Services**: AWS, Microsoft Azure
 - **Testing**: TerraTest, Jest, PyTest, Ansible Molecule
-- **Project Management**: Git, GitHub, Jira, Confluence, Microsoft Teams, Agile
+- **Project Management**: Git, GitHub, Jira, Confluence, Microsoft Teams, Agile Methodology
 
 ## 📫 Let’s Connect!
 
